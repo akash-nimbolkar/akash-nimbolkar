@@ -17,7 +17,7 @@
 
 🔥 Always learning, coding, and pushing my limits to create **impactful tech solutions**!  
 
-🔍 Currently exploring **Cloud Computing, DevOps, and System Design** to level up my engineering skills.  
+🔍 Currently exploring Spring Boot and Microservices for building scalable backend systems, while learning AI/ML to develop intelligent solutions. 🚀
 
 💬 Let's **connect, collaborate, and innovate**!  <br><br>
 ## 🌐 Socials:
