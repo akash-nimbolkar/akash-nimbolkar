@@ -11,8 +11,15 @@
 
 # 👋 Hi, I'm Akash Nimbolkar!
 
-# 🎓 About Me:
-<br>👋 Hi, I'm Akash Nimbolkar, a Computer Engineering student passionate about Java, Spring Boot, and problem-solving, React . <br>       I love building impactful projects, like a Smart Parking System and a Food Donation Platform.  <br><br>🚀 4⭐ CodeChef | Apptware Hackathon Finalist | Software Developer<br><br>💡 Skilled in Java, Python, C++, SQL, Spring Boot, Django. Always learning, coding, and innovating!  <br><br>
+👨‍💻 A passionate **Full Stack Developer** and **Problem Solver** with expertise in **Java, Spring Boot, React, and Python**. I love building **scalable applications** and solving complex challenges through **clean and efficient code**.  
+
+💡 **Tech Enthusiast | 4⭐ CodeChef | Apptware Hackathon Finalist**  
+
+🔥 Always learning, coding, and pushing my limits to create **impactful tech solutions**!  
+
+🔍 Currently exploring **Cloud Computing, DevOps, and System Design** to level up my engineering skills.  
+
+💬 Let's **connect, collaborate, and innovate**!  <br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashh.0081) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-nimbolkar-419b2924b/) 
