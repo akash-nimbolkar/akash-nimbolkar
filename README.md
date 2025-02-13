@@ -1,5 +1,17 @@
-# Akash Nimbolkar
-# 💫 About Me:
+
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+
+# 👋 Hi, I'm Akash Nimbolkar!
+
+# 🎓 About Me:
 <br>👋 Hi, I'm Akash Nimbolkar, a Computer Engineering student passionate about Java, Spring Boot, and problem-solving, React . <br>       I love building impactful projects, like a Smart Parking System and a Food Donation Platform.  <br><br>🚀 4⭐ CodeChef | Apptware Hackathon Finalist | Software Developer<br><br>💡 Skilled in Java, Python, C++, SQL, Spring Boot, Django. Always learning, coding, and innovating!  <br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashh.0081) 
